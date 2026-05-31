@@ -10,7 +10,7 @@ The project aims to support more informed decision making for **real estate anal
 
 Dataset Used: [California Housing Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 
----
+
 
 ## Business Problem
 
@@ -23,7 +23,7 @@ Accurate property valuation is challenging because house prices depend on multip
 
 This project addresses the problem by building a machine learning based valuation model and analysing the key drivers behind housing price behaviour.
 
----
+
 
 ## Approach
 
@@ -38,7 +38,7 @@ Key analytical steps included:
 * Residual analysis and cross validation for model reliability assessment
 * Feature importance analysis to interpret model behaviour
 
----
+
 
 ## Tech Stack
 
@@ -48,7 +48,7 @@ Key analytical steps included:
 
 **Machine Learning:** Scikit-learn
 
----
+
 
 ## Models Used
 
@@ -56,7 +56,7 @@ Key analytical steps included:
 * Random Forest Regressor
 * Gradient Boosting Regressor
 
----
+
 
 ## Model Performance
 
@@ -78,11 +78,11 @@ Cross Validation (Random Forest)
 
 The model maintained stable performance across multiple folds, suggesting reliable generalisation across different subsets of the dataset.
 
-> The visual below compares actual prices with model predictions for the final Random Forest model.
+> The visual below compares actual prices with model predictions for the final Random Forest model. </br>
 `Points closer to the diagonal line indicate stronger prediction accuracy.`
 
 ![Actual vs Predicted](images/actual_vs_predicted.png)
----
+
 
 ## Key Analytical Insights
 
@@ -92,7 +92,7 @@ The model maintained stable performance across multiple folds, suggesting reliab
 * Geographic analysis revealed visible regional differences in housing prices across California.
 
 ![California Housing Map](images/california_map.png)
----
+
 
 ## Feature Importance Analysis
 
@@ -104,7 +104,7 @@ Median income emerged as a major pricing driver, while location related and hous
 
 ![Feature Importance](images/feature_importance.png)
 
---
+
 ## Business Impact
 
 This project demonstrates how machine learning and analytics can support:
@@ -114,7 +114,7 @@ This project demonstrates how machine learning and analytics can support:
 * **Financial Institutions** → property related risk assessment
 * **Policy Teams & Researchers** → housing trend and regional market analysis
 
----
+
 
 ## Project Highlights
 
@@ -123,6 +123,6 @@ This project demonstrates how machine learning and analytics can support:
 * Performed residual analysis and cross validation to evaluate model stability.
 * Combined machine learning results with analytical insights for practical decision support.
 
----
+
 
 Project by [**Anurag Chauhan**](https://www.linkedin.com/in/theanuragchauhan/)
