@@ -1,4 +1,4 @@
-# California Housing Valuation & Market Intelligence Analytics
+# Housing Valuation & Market Intelligence Analytics
 
 ## Overview
 
